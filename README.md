@@ -1,6 +1,7 @@
 # IPL_Auction
 This project simulates an IPL auction using Python, allowing users to bid for players against computer-controlled teams with various strategies. Key features include team initialization, dynamic bidding strategies, and detailed auction results, showcasing skills in Python programming, object-oriented design, and user interaction. 
-IPL Auction Simulation with Python 🏏💻
+
+**#IPL Auction Simulation with Python** 🏏💻
 Welcome to the IPL Auction Simulation project! This repository contains a Python-based simulation of an IPL auction where both user-controlled and computer-controlled teams participate in bidding for players. The project showcases the application of various bidding strategies, ensuring a dynamic and realistic auction environment.
 
 Project Overview
